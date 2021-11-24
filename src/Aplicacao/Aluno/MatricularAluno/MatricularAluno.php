@@ -1,12 +1,12 @@
 <?php
 
-namespace Alura\Arquitetura\Aplicacao\Aluno\MatricularAluno;
+namespace Arquitetura\Aplicacao\Aluno\MatricularAluno;
 
-use Alura\Arquitetura\Dominio\Aluno\Aluno;
-use Alura\Arquitetura\Dominio\Aluno\AlunoMatriculado;
-use Alura\Arquitetura\Dominio\Aluno\LogDeAlunoMatriculado;
-use Alura\Arquitetura\Dominio\Aluno\RepositorioDeAluno;
-use Alura\Arquitetura\Dominio\PublicadorDeEvento;
+use Arquitetura\Dominio\Aluno\Aluno;
+use Arquitetura\Dominio\Aluno\AlunoMatriculado;
+use Arquitetura\Dominio\Aluno\LogDeAlunoMatriculado;
+use Arquitetura\Dominio\Aluno\RepositorioDeAluno;
+use Arquitetura\Dominio\PublicadorDeEvento;
 
 class MatricularAluno
 {

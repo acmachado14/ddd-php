@@ -1,8 +1,8 @@
 <?php
 
-namespace Alura\Arquitetura\Infra\Aluno;
+namespace Arquitetura\Infra\Aluno;
 
-use Alura\Arquitetura\Dominio\Aluno\CifradorDeSenha;
+use Arquitetura\Dominio\Aluno\CifradorDeSenha;
 
 class CifradorDeSenhaPhp implements CifradorDeSenha
 {

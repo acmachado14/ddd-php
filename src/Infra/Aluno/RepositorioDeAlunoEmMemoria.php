@@ -1,11 +1,11 @@
 <?php
 
-namespace Alura\Arquitetura\Infra\Aluno;
+namespace Arquitetura\Infra\Aluno;
 
-use Alura\Arquitetura\Dominio\Aluno\Aluno;
-use Alura\Arquitetura\Dominio\Aluno\AlunoNaoEncontrado;
-use Alura\Arquitetura\Dominio\Aluno\RepositorioDeAluno;
-use Alura\Arquitetura\Dominio\Cpf;
+use Arquitetura\Dominio\Aluno\Aluno;
+use Arquitetura\Dominio\Aluno\AlunoNaoEncontrado;
+use Arquitetura\Dominio\Aluno\RepositorioDeAluno;
+use Arquitetura\Dominio\Cpf;
 
 class RepositorioDeAlunoEmMemoria implements RepositorioDeAluno
 {

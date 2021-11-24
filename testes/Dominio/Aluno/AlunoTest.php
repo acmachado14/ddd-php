@@ -1,10 +1,10 @@
 <?php
 
-namespace Alura\Arquitetura\Testes\Dominio\Aluno;
+namespace Arquitetura\Testes\Dominio\Aluno;
 
-use Alura\Arquitetura\Dominio\Aluno\Aluno;
-use Alura\Arquitetura\Dominio\Cpf;
-use Alura\Arquitetura\Dominio\Email;
+use Arquitetura\Dominio\Aluno\Aluno;
+use Arquitetura\Dominio\Cpf;
+use Arquitetura\Dominio\Email;
 use PHPUnit\Framework\TestCase;
 
 class AlunoTest extends TestCase

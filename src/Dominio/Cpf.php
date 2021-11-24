@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura\Arquitetura\Dominio;
+namespace Arquitetura\Dominio;
 
 class Cpf
 {

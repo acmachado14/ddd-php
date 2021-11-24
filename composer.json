@@ -1,12 +1,12 @@
 {
     "autoload": {
         "psr-4": {
-            "Alura\\Arquitetura\\": "src/"
+            "Arquitetura\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Alura\\Arquitetura\\Testes\\": "testes/"
+            "Arquitetura\\Testes\\": "testes/"
         }
     },
     "require-dev": {

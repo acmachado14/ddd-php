@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura\Arquitetura\Dominio\Aluno;
+namespace Arquitetura\Dominio\Aluno;
 
 interface CifradorDeSenha
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura\Arquitetura\Aplicacao\Aluno\MatricularAluno;
+namespace Arquitetura\Aplicacao\Aluno\MatricularAluno;
 
 class MatricularAlunoDto
 {
